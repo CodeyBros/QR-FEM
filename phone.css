@@ -1,0 +1,45 @@
+/* Universal  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+body {
+    width: 100%;
+    height: 100%;
+    background-color: hsl(212, 45%, 89%);
+    font-family: outfit;
+}
+
+
+
+/* QR Container */
+.container {
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    margin: 30% 10%;
+    padding: 15px 15px;
+    border-radius: 10px;
+}
+
+
+/* Container Image */
+.container img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+/* Container Heading  */
+.container h3 {
+    padding-top: 10px;
+}
+
+/* Container Paragraph */
+.container p {
+    padding: 10px;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
